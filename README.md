@@ -86,3 +86,4 @@ Includes:
 This bot is for **educational and operational automation purposes only**. The author is not responsible for misuse or any violation of carrier terms.
 
 ---
+https://t.me/Serverlessdotcom
